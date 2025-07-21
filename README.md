@@ -1,32 +1,32 @@
-# 🌟 Blog Pessoal - TI Experient 🚀  
+# 📬 Envio de E-mails com Python + Gmail SMTP 🚀📧
 
-Bem-vindo(a) ao **TI Experient**! 🎉 Um cantinho especial onde compartilho minhas aventuras no mundo do desenvolvimento, aprendizados, desafios e, claro, projetos incríveis! 💡✨  
+Seja bem-vindo(a) ao repositório **Envio de E-mails Automatizado com Python**!  
+Aqui você vai aprender a **enviar e-mails de forma simples, rápida e eficaz** usando apenas algumas linhas de código em Python — ideal para notificações, relatórios automáticos, alertas e muito mais! 💻✨
 
-Aqui você vai encontrar:  
+## ✅ O que esse projeto faz?
 
-✅ Dicas e truques de programação  
-✅ Experiências de desenvolvimento  
-✅ Divulgação e ilustração de projetos  
-✅ Bastidores das minhas criações  
+- Conecta ao servidor SMTP do Gmail
+- Autentica com seu e-mail de forma segura
+- Envia mensagens personalizadas
+- Permite editar remetente, destinatário, assunto e corpo
+- Traz um exemplo funcional e pronto para uso
 
-Tudo isso feito com muito código, criatividade e café ☕!
-<br><br> 
-
-## 💻 Tecnologias Utilizadas  
-
-🔥 **Angular CLI** ([versão 14.0.7](https://github.com/angular/angular-cli))  
-🚀 **TypeScript**  
-🎨 **HTML & CSS**  
+Perfeito para quem busca praticidade e automação no dia a dia! 💡  
 <br>
 
-## 🔗 Acesse Agora  
+## 💻 Tecnologias Utilizadas
+
+🐍 **Python** `v3.3.5`  git add -A
+📡 **SMTP (Simple Mail Transfer Protocol)**  
+📧 **Email MIME para mensagens estruturadas**
+
+<br>
+
+## 🔗 Acesse Agora
 
 📢 **Blog:** [Blog Pessoal](https://tiexperient-blog.netlify.app/)  
 👩🏼‍💻 **Portfólio:** [Meu Portfólio Profissional](https://ti-experient.netlify.app/)
 
-
 📌 Confira meus projetos no **GitHub** e me acompanhe nessa jornada de aprendizado e inovação!  
 
-Desenvolvido com carinho por: **Célia Medeiros** 💛  
-
-https://www.youtube.com/watch?v=4kPRm8D8Vx0
+Desenvolvido com carinho por: **Célia Medeiros** 💛
