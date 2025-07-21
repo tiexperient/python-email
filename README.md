@@ -16,7 +16,7 @@ Perfeito para quem busca praticidade e automação no dia a dia! 💡
 
 ## 💻 Tecnologias Utilizadas
 
-🐍 **Python** `v3.3.5`  git add -A
+🐍 **Python** `v3.3.5`
 📡 **SMTP (Simple Mail Transfer Protocol)**  
 📧 **Email MIME para mensagens estruturadas**
 
