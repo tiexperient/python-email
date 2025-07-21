@@ -2,6 +2,7 @@
 
 Seja bem-vindo(a) ao repositório **Envio de E-mails Automatizado com Python**!  
 Aqui você vai aprender a **enviar e-mails de forma simples, rápida e eficaz** usando apenas algumas linhas de código em Python — ideal para notificações, relatórios automáticos, alertas e muito mais! 💻✨
+<br>
 
 ## ✅ O que esse projeto faz?
 
@@ -28,5 +29,6 @@ Perfeito para quem busca praticidade e automação no dia a dia! 💡
 👩🏼‍💻 **Portfólio:** [Meu Portfólio Profissional](https://ti-experient.netlify.app/)
 
 📌 Confira meus projetos no **GitHub** e me acompanhe nessa jornada de aprendizado e inovação!  
+<br>
 
 Desenvolvido com carinho por: **Célia Medeiros** 💛
