@@ -2,7 +2,7 @@
 
 Seja bem-vindo(a) ao repositório **Envio de E-mails Automatizado com Python**!  
 Aqui você vai aprender a **enviar e-mails de forma simples, rápida e eficaz** usando apenas algumas linhas de código em Python — ideal para notificações, relatórios automáticos, alertas e muito mais! 💻✨
-<br>
+<br><br>
 
 ## ✅ O que esse projeto faz?
 
